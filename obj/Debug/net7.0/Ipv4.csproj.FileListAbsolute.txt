@@ -1,0 +1,15 @@
+/Users/wandy/Documents/Techbodia/Ipv4/obj/Debug/net7.0/Ipv4.csproj.AssemblyReference.cache
+/Users/wandy/Documents/Techbodia/Ipv4/obj/Debug/net7.0/Ipv4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wandy/Documents/Techbodia/Ipv4/obj/Debug/net7.0/Ipv4.AssemblyInfoInputs.cache
+/Users/wandy/Documents/Techbodia/Ipv4/obj/Debug/net7.0/Ipv4.AssemblyInfo.cs
+/Users/wandy/Documents/Techbodia/Ipv4/obj/Debug/net7.0/Ipv4.csproj.CoreCompileInputs.cache
+/Users/wandy/Documents/Techbodia/Ipv4/bin/Debug/net7.0/Ipv4
+/Users/wandy/Documents/Techbodia/Ipv4/bin/Debug/net7.0/Ipv4.deps.json
+/Users/wandy/Documents/Techbodia/Ipv4/bin/Debug/net7.0/Ipv4.runtimeconfig.json
+/Users/wandy/Documents/Techbodia/Ipv4/bin/Debug/net7.0/Ipv4.dll
+/Users/wandy/Documents/Techbodia/Ipv4/bin/Debug/net7.0/Ipv4.pdb
+/Users/wandy/Documents/Techbodia/Ipv4/obj/Debug/net7.0/Ipv4.dll
+/Users/wandy/Documents/Techbodia/Ipv4/obj/Debug/net7.0/refint/Ipv4.dll
+/Users/wandy/Documents/Techbodia/Ipv4/obj/Debug/net7.0/Ipv4.pdb
+/Users/wandy/Documents/Techbodia/Ipv4/obj/Debug/net7.0/Ipv4.genruntimeconfig.cache
+/Users/wandy/Documents/Techbodia/Ipv4/obj/Debug/net7.0/ref/Ipv4.dll
